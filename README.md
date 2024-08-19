@@ -45,23 +45,24 @@ Complain: 1 if a customer complained in the last 2 years, 0 otherwise
 Country: Customer’s location
 
 ## CONCLUSION
+
 ### Summaries:
 
--The last campaign had twice the amount of engagement than the previous campaigns.
-  -The last campaign attracted more customers who had lower income and more dependents compared to the customers who were attracted by most of the previous campaigns.
-  -The last campaign had fewer customers purchase from all the purchasing channels than most of the previous campaigns.
-  -The products on which customers spend the most are Wine and Meat, but last campaign customers spent 10% less on meat and 50% less on wine compared to the previous campaigns.
-  -The last campaign customers purchased more fruits and sweets compared to half of the previous campaigns.
-  -Compared to customers who made no purchases in previous campaigns, those who purchased in the last campaign bought more products across all categories and had 5% higher income.
-  -Overall, the last campaign effectively targeted low-income customers with more dependents and saw the highest (60%) acceptance in Mexico. However, it performed worse with high-spending products like Wine and Meat compared to previous campaigns.
+- The last campaign had twice the amount of engagement than the previous campaigns.
+  - The last campaign attracted more customers who had lower income and more dependents compared to the customers who were attracted by most of the previous campaigns.
+  - The last campaign had fewer customers purchase from all the purchasing channels than most of the previous campaigns.
+  - The products on which customers spend the most are Wine and Meat, but last campaign customers spent 10% less on meat and 50% less on wine compared to the previous campaigns.
+  - The last campaign customers purchased more fruits and sweets compared to half of the previous campaigns.
+  - Compared to customers who made no purchases in previous campaigns, those who purchased in the last campaign bought more products across all categories and had 5% higher income.
+  - Overall, the last campaign effectively targeted low-income customers with more dependents and saw the highest (60%) acceptance in Mexico. However, it performed worse with high-spending products like Wine and Meat compared to previous campaigns.
 
--Most customers purchase through physical stores, where people tend to spend more amount per purchase. The reason might be the customers had more impulsive purchases when they saw other similar products in stores.
+- Most customers purchase through physical stores, where people tend to spend more amount per purchase. The reason might be the customers had more impulsive purchases when they saw other similar products in stores.
 
--People with kids:
-  -tend to purchase less
-  -tend to have a high number of purchases made with a discount
+- People with kids:
+  - tend to purchase less
+  - tend to have a high number of purchases made with a discount
 
--Advertising campaign acceptance is positively correlated with income and negatively correlated with having kids/teens
+- Advertising campaign acceptance is positively correlated with income and negatively correlated with having kids/teens
 
 
 
@@ -69,19 +70,20 @@ Country: Customer’s location
 
 #### On Acquisition:
 `Expand Campaigns with Localized Strategies`
-- Continue the same campaign model for low-income population and leverage the success in Mexico by implementing localized marketing strategies in other regions with similar demographics.
+  - Continue the same campaign model for low-income population and leverage the success in Mexico by implementing localized marketing strategies in other regions with similar demographics.
 `Targeted Promotions for Families`
-- Since families with children tend to purchase less and focus on discounted products, consider offering exclusive discounts on family-oriented products or bulk-buying options that offer value.
+  - Since families with children tend to purchase less and focus on discounted products, consider offering exclusive discounts on family-oriented products or bulk-buying options that offer value.
+
 #### On Increasing revenue:
 `Focus on Wine and Meat`
-- Introduce targeted promotions or loyalty rewards to previous high-spending customers.
+  - Introduce targeted promotions or loyalty rewards to previous high-spending customers.
 `Cross-sell and Bundle`
-- Bundle wine and meat with other products like fruits and sweets to drive sales across categories especially in low-income demographics.
+  - Bundle wine and meat with other products like fruits and sweets to drive sales across categories especially in low-income demographics.
 `Optimize Customer Segmentation for Higher Spending`
-- Use data-driven segmentation to create personalized offers for high-income and high-spending customers, encouraging them to increase their spending in premium categories like wine and meat.
+  - Use data-driven segmentation to create personalized offers for high-income and high-spending customers, encouraging them to increase their spending in premium categories like wine and meat.
 `Change marketing strategy for worse performing countries`
-- For countries like India where the latest campaign performed poorly, implement previous strategies and optimize them in accordance with their demographics.
+  - For countries like India where the latest campaign performed poorly, implement previous strategies and optimize them in accordance with their demographics.
 `Exclusive In-Store Discounts`
-- Offer exclusive in-store discounts or promotions to drive foot traffic and capitalize on impulsive purchasing behavior resulting in higher Average Order Volume (AOV).
+  - Offer exclusive in-store discounts or promotions to drive foot traffic and capitalize on impulsive purchasing behavior resulting in higher Average Order Volume (AOV).
 
 
