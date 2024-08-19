@@ -69,21 +69,21 @@ Country: Customer’s location
 ### Recommendations for Customer Acquisition and Increasing Revenue:
 
 #### On Acquisition:
-`Expand Campaigns with Localized Strategies`
-  - Continue the same campaign model for low-income population and leverage the success in Mexico by implementing localized marketing strategies in other regions with similar demographics.
-`Targeted Promotions for Families`
-  - Since families with children tend to purchase less and focus on discounted products, consider offering exclusive discounts on family-oriented products or bulk-buying options that offer value.
+`Expand Campaigns with Localized Strategies` <br />
+  - Continue the same campaign model for low-income population and leverage the success in Mexico by implementing localized marketing strategies in other regions with similar demographics. <br />
+`Targeted Promotions for Families` <br />
+  - Since families with children tend to purchase less and focus on discounted products, consider offering exclusive discounts on family-oriented products or bulk-buying options that offer value. <br />
 
 #### On Increasing revenue:
-`Focus on Wine and Meat`
-  - Introduce targeted promotions or loyalty rewards to previous high-spending customers.
-`Cross-sell and Bundle`
-  - Bundle wine and meat with other products like fruits and sweets to drive sales across categories especially in low-income demographics.
-`Optimize Customer Segmentation for Higher Spending`
-  - Use data-driven segmentation to create personalized offers for high-income and high-spending customers, encouraging them to increase their spending in premium categories like wine and meat.
-`Change marketing strategy for worse performing countries`
-  - For countries like India where the latest campaign performed poorly, implement previous strategies and optimize them in accordance with their demographics.
-`Exclusive In-Store Discounts`
-  - Offer exclusive in-store discounts or promotions to drive foot traffic and capitalize on impulsive purchasing behavior resulting in higher Average Order Volume (AOV).
+`Focus on Wine and Meat` <br />
+  - Introduce targeted promotions or loyalty rewards to previous high-spending customers. <br />
+`Cross-sell and Bundle` <br />
+  - Bundle wine and meat with other products like fruits and sweets to drive sales across categories especially in low-income demographics. <br />  
+`Optimize Customer Segmentation for Higher Spending` <br />
+  - Use data-driven segmentation to create personalized offers for high-income and high-spending customers, encouraging them to increase their spending in premium categories like wine and meat. <br />
+`Change marketing strategy for worse performing countries` <br />
+  - For countries like India where the latest campaign performed poorly, implement previous strategies and optimize them in accordance with their demographics. <br />
+`Exclusive In-Store Discounts` <br />
+  - Offer exclusive in-store discounts or promotions to drive foot traffic and capitalize on impulsive purchasing behavior resulting in higher Average Order Volume (AOV). <br />
 
 
